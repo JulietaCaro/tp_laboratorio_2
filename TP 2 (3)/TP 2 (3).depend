@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1557525257 source:c:\users\administrador\documents\facultad\tp 2 (3)\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+
+1557525257 c:\users\administrador\documents\facultad\tp 2 (3)\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1557525685 source:c:\users\administrador\documents\facultad\tp 2 (3)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayEmployee.h"
+	"input.h"
+
+1557525685 c:\users\administrador\documents\facultad\tp 2 (3)\arrayemployee.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<strings.h>
+	<conio.h>
+	<ctype.h>
+
